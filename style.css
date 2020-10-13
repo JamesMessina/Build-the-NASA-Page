@@ -1,0 +1,53 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 250%;
+  }
+  h1 {
+    font-family: 'Anton', sans-serif;
+  }
+
+  h2{
+    text-decoration: underline
+  }
+  
+  main {
+    font-family: 'Anton', sans-serif;
+  }
+  
+  .main-container header {
+    background-image: url(https://cdn.pixabay.com/photo/2011/12/15/11/37/solar-system-11188__480.jpg);
+    width: 850px;
+    height:450px;
+  }
+  
+  .bottom-container {
+    display: flex;
+    flex-direction: row;
+    background-color: lightgray;
+    width: 850px;
+    height: 300px;
+    margin-top:20px;
+  }
+  
+  section {
+    width: 270px;
+    margin-left:25px;
+  }
+  
+  p {
+    line-height: 30px;
+    
+  }
+  
+  .OfficeInfo{
+    margin-left: 20px;
+    margin-right: 20px;
+    
+  }
+  
+  .MSG {
+    padding-bottom: 25px;
+  }
+  
